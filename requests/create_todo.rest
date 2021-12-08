@@ -1,0 +1,7 @@
+POST http://localhost:3000/todos/
+Content-Type: application/json
+
+{
+    "text":"Learn Mongo!",
+    "ownerId":"6135d03c17c8fcd55ab5dc0c4"
+}

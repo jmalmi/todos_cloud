@@ -1,0 +1,1 @@
+GET http://localhost:3000/owners/6135d03c17c8fcd55ab5dc04
